@@ -1,7 +1,9 @@
 # find_copy
 
 
-main unzip finder_copy.zip 
+
+
+unzip finder_copy.zip 
 
 cd finder_copy 
 
